@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AcylSilane
+- 🎓 I'm a PhD in Chemical Engineering, with a few years of experience in Python and Density-Functional Theory.
+- 👀 I’m interested in chemistry, nanomaterials and machine learning!
+- 🌱 I’m currently learning javascript and front-end tools
+- 💞️ I’m looking to collaborate on chemistry-oriented codes 
+- 📫 How to reach me: message me on GitHub
