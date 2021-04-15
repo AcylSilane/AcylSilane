@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AcylSilane
+- 👋 Hi, I’m James!
 - 🎓 I'm a PhD in Chemical Engineering, with a few years of experience in Python and Density-Functional Theory.
 - 👀 I’m interested in chemistry, nanomaterials and machine learning!
 - 🌱 I’m currently learning javascript and front-end tools
