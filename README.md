@@ -1,5 +1,5 @@
 - 👋 Hi, I’m James!
-- 🎓 I'm a PhD in Chemical Engineering, with plenty of experience in Python and Density-Functional Theory.
+- 🎓 I have a PhD in Chemical Engineering, and plenty of experience in Python and Density-Functional Theory.
 - 👀 I’m interested in chemistry, nanomaterials and machine learning!
 - 🌱 I’m currently learning javascript and front-end tools
 - 💞️ I’m looking to collaborate on chemistry-oriented codes 
