@@ -2,5 +2,5 @@
 - 🎓 I have a PhD in Chemical Engineering, and plenty of experience in Python and Density-Functional Theory.
 - 👀 I’m interested in chemistry, nanomaterials and machine learning!
 - 🌱 I’m currently learning javascript and front-end tools
-- 💞️ I’m looking to collaborate on chemistry-oriented codes 
+- 🤝 I’m looking to collaborate on chemistry-oriented codes 
 - 📫 How to reach me: message me on GitHub
